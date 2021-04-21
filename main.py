@@ -1,2 +1,1 @@
-print("Bunaaa")
-print("Buna")
+
